@@ -39,7 +39,7 @@ def main():
         return
 
     path = input_url[len(prefix):]
-    final_url = f"https://www.altarweb.com/havoc/{path}index.html"
+    final_url = f"https://xTGuy.github.io/Altarweb/havoc/{path}index.html"
     webbrowser.open(final_url)
 
 if __name__ == "__main__":
